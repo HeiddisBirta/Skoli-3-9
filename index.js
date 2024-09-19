@@ -45,17 +45,6 @@ switch (peopleArray[1].country) {
 peopleArray[1].name.length > 5 ?
     console.log("This name is longer than 5 characters") :
     console.log("This name is shorter than 5 characters");
-/**
- *
- * if (something) {
- *  then this
- * } else {
- *  this
- * }
- *
- * something ? then this : this
- *
- */
 console.log(hasSameKids);
 console.log(result);
 console.log(say);
